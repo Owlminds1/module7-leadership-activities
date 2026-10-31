@@ -33,7 +33,7 @@ const mcqs = [
       "02.09.2025",
       "25.09.2020"
     ],
-    correct: 2
+    correct: 1
   },
   {
     question: "What is the product mentioned in the bill?",
@@ -73,7 +73,7 @@ const mcqs = [
       "4-wheeler",
       "Bus"
     ],
-    correct: 0
+    correct: 1
   },
   {
     question: "How was the payment made?",
